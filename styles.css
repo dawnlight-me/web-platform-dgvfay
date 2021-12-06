@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+header {
+  margin-top: 20px;
+}
+.leftpart {
+  float: left;
+  /* margin-top: 20px; */
+  margin-left: 15px;
+}
+.leftpart a {
+  margin: 0 10px;
+}
+.rightpart {
+  float: right;
+  margin-right: 15px;
+}
+.serchbar {
+  
+}
